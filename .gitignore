@@ -27,6 +27,7 @@ sysinfo.txt
 *.userprefs
 *.pidb
 *.log
+!spec/*.log
 .DS_Store
 
 ###
@@ -40,4 +41,5 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+*.log
 *.log
